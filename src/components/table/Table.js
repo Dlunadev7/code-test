@@ -25,7 +25,7 @@ export const Table = ({name, type, description, constraints}) => {
           <td className="main__attributes__table__field">ID</td>
           <td className="main__attributes__table__field">
           <select className="main__atributes__table__select">
-              <option className="main__atributes__table__option">Option</option>
+              <option className="main__atributes__table__option">DECIMAL</option>
               <option className="main__atributes__table__option">2</option>
               <option className="main__atributes__table__option">3</option>
               <option className="main__atributes__table__option">4</option>
@@ -38,7 +38,7 @@ export const Table = ({name, type, description, constraints}) => {
           <td className="main__attributes__table__field">Celular</td>
           <td className="main__attributes__table__field">
           <select className="main__atributes__table__select">
-              <option className="main__atributes__table__option">Char</option>
+              <option className="main__atributes__table__option">CHAR</option>
               <option className="main__atributes__table__option">2</option>
               <option className="main__atributes__table__option">3</option>
               <option className="main__atributes__table__option">4</option>
