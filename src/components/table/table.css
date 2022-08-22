@@ -58,7 +58,7 @@ hr {
   margin: 24px 0;
 }
 
-.main__atributes__table__select, .select {
+.main__atributes__table__select{
   padding: 12px;
   border: 1px solid #D7D7D7;
   border-radius: 12px;
